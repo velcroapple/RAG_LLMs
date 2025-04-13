@@ -1,0 +1,17 @@
+streamlit 
+langchain 
+bs4
+lxml 
+python-dotenv
+
+
+faiss
+pickle
+json
+sentence_transformers
+
+requests
+urllib
+urllib3
+langchain_community
+langchain_text_splitters
