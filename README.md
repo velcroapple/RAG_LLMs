@@ -103,7 +103,7 @@ Comp team rule book qna RAG using pdf
 
 Legal amendments qna (LLMs will need to be complex)
 
-Financial Chatbot based on screeners
+Financial Chatbot based on screener data
 
 Dune wiki chatbot (web scraping)
 
