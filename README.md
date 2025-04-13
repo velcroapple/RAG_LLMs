@@ -25,7 +25,7 @@ BM25 helped us go one step further , it not only weighted terms smartly, it also
 GloVe introduced us to word embeddings — where words became vectors in space. Words with similar meanings started clustering, analogies came to life, and math got... poetic.  
 Basically, words finally left 1995 and entered neural space.
 
- You can find our notes, slides, and references in the [`Resources/`](../resources) folder.
+ You can find our notes, slides, and references in the Resources folder.
 
 This week laid the foundation — so by the time we started RAG, our models weren’t just parroting words... they were starting to *understand them.*
 
@@ -45,7 +45,7 @@ We read some articles, watched some videos all of which link is there in the res
 The goal this week was to understand what it really means to retrieve documents, ground the LLM in actual context, and generate answers without hallucination,
 By the end of this week, we were ready to build our own RAG pipelines — from scratch. We knew which models to try, which vector stores to test, and that *maybe*... just maybe... ChatGPT wasn’t magic after all — it was RAG.
 
-All article links and videos live in the [`Resources/`](../resources) folder.
+All article links and videos live in the Resources folder.
 
 ## WEEK 3–5
 
