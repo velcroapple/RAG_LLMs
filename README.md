@@ -63,7 +63,7 @@ This was...
 
 RAG_LLMs  
 A mini-project by Team SG5  
-as part of AI Club led by Shailesh,  @ CFI, IIT Madras  
+as part of AI Club led by Shailesh, Jaanav & Mahendra  @ CFI, IIT Madras  
 
 ----------------------------
 
