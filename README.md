@@ -99,12 +99,11 @@ HVAC machines described to a chatbot, to retrieve the relationship between machi
  
 Research paper RAG- what kind of paper you want as a query, the database is the abstracts of the papers 
 
-comp team rule book qna RAG
-uses pdf (we need to use OCR for pdfs) 
+Comp team rule book qna RAG using pdf
 
-legal amendments qna (LLMs will need to be complex)
+Legal amendments qna (LLMs will need to be complex)
 
-screenr (stock market queries rag, mathematical databases)
+Financial Chatbot based on screeners
 
 Dune wiki chatbot (web scraping)
 
