@@ -58,6 +58,9 @@ We're proud of what we created in just a few weeks, a set of fully working, loca
 
 Big shoutout again to everyone who made this project possible, and to anyone reading this: clone a branch, try a build, ask the bot something wild ,and if it breaks? Well, we warned you. Might just be another one of those Easter eggs from the chaos gods.
 
+# Note :-
+All the mini projects are in different branches.
+
 Credits->
 This was...
 
