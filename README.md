@@ -61,7 +61,8 @@ Big shoutout again to everyone who made this project possible, and to anyone rea
 # Note :-
 All the mini projects are in different branches.
 
-Credits->
+
+## Credits->
 This was...
 
 RAG_LLMs  
